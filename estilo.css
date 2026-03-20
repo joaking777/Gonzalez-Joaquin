@@ -1,8 +1,7 @@
-/* Estilos basados en tu archivo estilo.css original */
-        body {
+body {
             font-family: 'Segoe UI', Arial, sans-serif;
-            background-color: #4c1d3d; /* Tu color de fondo original */
-            color: #ffbb94;           /* Tu color de texto original */
+            background-color: #4c1d3d; 
+            color: #ffbb94;          
             margin: 0;
             padding: 0;
             text-align: center;
@@ -10,7 +9,7 @@
         }
 
         header {
-            background-color: #dc586d; /* Tu color de encabezado original */
+            background-color: #dc586d; 
             color: #ffbb94;
             padding: 40px 20px;
             box-shadow: 0 4px 10px rgba(0,0,0,0.3);
@@ -38,7 +37,7 @@
         }
 
         p {
-            font-size: 20px; /* Un poco más grande como en tu original */
+            font-size: 20px; 
             margin-bottom: 20px;
         }
 
